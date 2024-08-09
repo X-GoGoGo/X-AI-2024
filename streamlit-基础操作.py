@@ -3,7 +3,7 @@ import pandas as pd
 st.title("这是一个网站标题") #创建网站标题
 st.write("## Hello,Streamlit") #创建一个文本
 "你好"  #创建一个文本
-st.image('C:\phthon-相关\pythonProject2\.venv\标签-火热.png',width=50) #创建图片
+# st.image('C:\phthon-相关\pythonProject2\.venv\标签-火热.png',width=50) #创建图片
 st.divider() #创建分割线
 df = pd.DataFrame(  #创建一个dataframe
     {
